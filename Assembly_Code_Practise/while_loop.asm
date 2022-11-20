@@ -1,3 +1,9 @@
+;Write a program to find the sum of the input digits from the user and put it in AX register;
+;example:
+;Input: 456
+;Output: AX will store 000F
+ 
+ 
  .model small
 .stack 100h
 
